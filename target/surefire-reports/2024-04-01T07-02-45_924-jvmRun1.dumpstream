@@ -1,0 +1,124 @@
+# Created at 2024-04-01T07:04:26.621
+Unexpected IOException with stream: 2024-04-01 07:04:26.618  INFO 3509 --- [           main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+
+
+# Created at 2024-04-01T07:04:26.623
+Unexpected IOException with stream: 2024-04-01 07:04:26.621  INFO 3509 --- [           main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+
+
+# Created at 2024-04-01T07:04:26.626
+Unexpected IOException with stream: 2024-04-01 07:04:26.624  INFO 3509 --- [           main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+
+
+# Created at 2024-04-01T07:04:26.931
+Unexpected IOException with stream: 2024-04-01 07:04:26.931  INFO 3509 --- [           main] com.example.song.SongControllerTests     : Started SongControllerTests in 19.897 seconds (JVM running for 97.713)
+
+
+# Created at 2024-04-01T07:04:27.026
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testgetSongs,null,null,null
+
+
+# Created at 2024-04-01T07:04:31.226
+Unexpected IOException: 6,1,com.example.song.SongControllerTests,testgetSongs,null,null,null
+
+
+# Created at 2024-04-01T07:04:31.226
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testGetNotFound,null,null,null
+
+
+# Created at 2024-04-01T07:04:31.920
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testGetNotFound,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,SongControllerTests.testGetNotFound:94 \00BB NestedServlet Handler dispatch failed...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testGetNotFound(SongControllerTests.java:94)\000ACaused by: java.lang.Error: \000AUnresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testGetNotFound(SongControllerTests.java:94)\000A
+
+
+# Created at 2024-04-01T07:04:31.924
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testGetSongById,null,null,null
+
+
+# Created at 2024-04-01T07:04:32.028
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testGetSongById,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,SongControllerTests.testGetSongById:102 \00BB NestedServlet Handler dispatch faile...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testGetSongById(SongControllerTests.java:102)\000ACaused by: java.lang.Error: \000AUnresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testGetSongById(SongControllerTests.java:102)\000A
+
+
+# Created at 2024-04-01T07:04:32.028
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testPostSong,null,null,null
+
+
+# Created at 2024-04-01T07:04:33.124
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testPostSong,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problems: \000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problems: \000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A,SongControllerTests.testPostSong:160 \00BB NestedServlet Handler dispatch failed; ...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problems: \000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\000A\0009at com.example.song.SongControllerTests.testPostSong(SongControllerTests.java:160)\000ACaused by: java.lang.Error: \000AUnresolved compilation problems: \000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\0009song cannot be resolved\000A\000A\0009at com.example.song.SongControllerTests.testPostSong(SongControllerTests.java:160)\000A
+
+
+# Created at 2024-04-01T07:04:33.215
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testAfterPost,null,null,null
+
+
+# Created at 2024-04-01T07:04:33.417
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testAfterPost,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,SongControllerTests.testAfterPost:173 \00BB NestedServlet Handler dispatch failed;...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testAfterPost(SongControllerTests.java:173)\000ACaused by: java.lang.Error: \000AUnresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testAfterPost(SongControllerTests.java:173)\000A
+
+
+# Created at 2024-04-01T07:04:33.515
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testDbAfterPost,null,null,null
+
+
+# Created at 2024-04-01T07:04:33.924
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testDbAfterPost,null,Incorrect result size: expected 1\002C actual 0,null,Incorrect result size: expected 1\002C actual 0,SongControllerTests.testDbAfterPost:186 \00BB EmptyResultDataAccess Incorrect resu...,org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1\002C actual 0\000A\0009at com.example.song.SongControllerTests.testDbAfterPost(SongControllerTests.java:186)\000A
+
+
+# Created at 2024-04-01T07:04:34.115
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testPutNotFound,null,null,null
+
+
+# Created at 2024-04-01T07:04:34.422
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testPutNotFound,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,SongControllerTests.testPutNotFound:205 \00BB NestedServlet Handler dispatch faile...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testPutNotFound(SongControllerTests.java:205)\000ACaused by: java.lang.Error: \000AUnresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testPutNotFound(SongControllerTests.java:205)\000A
+
+
+# Created at 2024-04-01T07:04:34.425
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testPutSong,null,null,null
+
+
+# Created at 2024-04-01T07:04:34.816
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testPutSong,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,SongControllerTests.testPutSong:219 \00BB NestedServlet Handler dispatch failed; n...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testPutSong(SongControllerTests.java:219)\000ACaused by: java.lang.Error: \000AUnresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testPutSong(SongControllerTests.java:219)\000A
+
+
+# Created at 2024-04-01T07:04:34.817
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testAfterPut,null,null,null
+
+
+# Created at 2024-04-01T07:04:35.316
+Unexpected IOException: 7,1,com.example.song.SongControllerTests,testAfterPut,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,null,Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A,SongControllerTests.testAfterPut:232 \00BB NestedServlet Handler dispatch failed; ...,org.springframework.web.util.NestedServletException: \000AHandler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testAfterPut(SongControllerTests.java:232)\000ACaused by: java.lang.Error: \000AUnresolved compilation problem: \000A\0009songId cannot be resolved to a variable\000A\000A\0009at com.example.song.SongControllerTests.testAfterPut(SongControllerTests.java:232)\000A
+
+
+# Created at 2024-04-01T07:04:35.319
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testDbAfterPut,null,null,null
+
+
+# Created at 2024-04-01T07:04:35.624
+Unexpected IOException: 6,1,com.example.song.SongControllerTests,testDbAfterPut,null,null,null
+
+
+# Created at 2024-04-01T07:04:35.720
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testDeleteNotFound,null,null,null
+
+
+# Created at 2024-04-01T07:04:35.920
+Unexpected IOException: 6,1,com.example.song.SongControllerTests,testDeleteNotFound,null,null,null
+
+
+# Created at 2024-04-01T07:04:36.018
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testDeleteSong,null,null,null
+
+
+# Created at 2024-04-01T07:04:36.128
+Unexpected IOException: 6,1,com.example.song.SongControllerTests,testDeleteSong,null,null,null
+
+
+# Created at 2024-04-01T07:04:36.128
+Unexpected IOException: 5,1,com.example.song.SongControllerTests,testAfterDelete,null,null,null
+
+
+# Created at 2024-04-01T07:04:36.417
+Unexpected IOException: 6,1,com.example.song.SongControllerTests,testAfterDelete,null,null,null
+
+
+# Created at 2024-04-01T07:04:36.424
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.song.SongControllerTests,null,null,null
+
+
